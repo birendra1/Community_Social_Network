@@ -1,0 +1,4 @@
+td, body { font: 12px arial; }
+h1 { font: 25px arial; }
+h2 { background: #CCCCCC; font: 15px arial; color: #FFFFFF; padding: 5px; font-weight: bold; background: url(images/nav.gif)}
+.button { background: url(images/bt.png); border: 0px solid #000000; color: #FFFFFF; font: 12px arial; padding: 4px; }
